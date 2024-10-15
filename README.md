@@ -21,4 +21,4 @@ This project is a classic Tic Tac Toe game where users can play against each oth
   The JavaScript file that handles the game logic, including cell clicking, updating the game state, checking for winners, and displaying win/draw messages.
 
 ## Link
-[https://shady-ghabour.github.io/Tic-Tac-Toe/](https://shady-ghabour.github.io/Tic-Tac-Toe/)
+[https://shady-ghabour.github.io/TicTacToe/](https://shady-ghabour.github.io/TicTacToe/)
