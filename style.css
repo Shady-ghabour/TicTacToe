@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    background-image: url(./background.jpg);
+}
+
+h1{
+    color: white;
+    margin-block-end: -0.5em;
+}
+p{
+    color: white;
+    margin-bottom: 25px;
+}
+.game-container{
+    padding: 100px;
+    font-family: "Permanent Marker", cursive;
+    text-align: center;
+}
+
+.cell-container{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    margin: auto;
+    background-color: black;
+}
+
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    font-size: 70px;
+    cursor: pointer;
+    color: white;
+}
+
+.status{
+    color: white;
+}
+
+.btn{
+    padding: 10px;
+    cursor: pointer;
+    background-color: blue;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 20px;
+    border-radius: 10%;
+}
